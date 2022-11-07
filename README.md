@@ -1,4 +1,4 @@
-# SHOP-API
+# NEST-API
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
@@ -47,10 +47,10 @@ $ npm run test:cov
 https://documenter.getpostman.com/view/2530523/TzCP88H1
 
 ## DEPLOYMENT
-https://shop-api-five.vercel.app/
+
 
 ## Stay in touch
-- Author - [Yupanqui Allcca Frank](https://kamilmysliwiec.com)
+- Author - [Fernando Sorrentio]
 
 ## License
 
